@@ -1,5 +1,21 @@
-theme: jekyll-theme-minimal
+# Site basics
 title: Workflow
 description: A simple portfolio & project site by Haider Ali
-logo: /assets/logo.png   # optional, if you add a logo later
+theme: jekyll-theme-minimal
+
+# IMPORTANT for project sites (username.github.io/repo)
+url: https://haiderxayan.github.io
+baseurl: /workflow
+
+# Optional niceties
 show_downloads: false
+author: Haider Ali
+
+# GitHub Pages–safe plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# SEO
+seo:
+  type: Person
