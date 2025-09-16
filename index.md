@@ -1,4 +1,6 @@
 ---
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
+
 layout: default
 title: Home
 ---
