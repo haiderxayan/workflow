@@ -1,9 +1,15 @@
 ---
 layout: default
 title: About
+permalink: /about
 ---
 
-# About Me
+# About
 
-This is a longer version of my bio.  
-I work in UX design, mentoring, and digital products at Aramco.
+I’m **Haider Ali**, Senior UX Consultant at Aramco.  
+I design internal products, mentor designers, and build systems that scale.
+
+- Focus: UX systems, onboarding, productivity tools
+- Interests: design ops, writing, micro-agency building
+
+[Back Home]({{ site.baseurl }}/)
