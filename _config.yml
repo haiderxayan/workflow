@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: Workflow
-description: My first static site with Jekyll
+description: A simple portfolio & project site by Haider Ali
+logo: /assets/logo.png   # optional, if you add a logo later
+show_downloads: false
