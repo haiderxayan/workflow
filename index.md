@@ -5,18 +5,16 @@ title: Home
 
 # 👋 Welcome to Workflow
 
-This is my first **Jekyll + GitHub Pages** site.
+A lightweight portfolio powered by **Jekyll + GitHub Pages**.
 
-## 🚀 About This Project
-Workflow is my test project for learning GitHub Pages.  
-Here I’ll share experiments, notes, and ideas as I build my digital portfolio.
+**Navigate:** [Home]({{ site.baseurl }}/) · [About]({{ site.baseurl }}/about) · [Projects]({{ site.baseurl }}/projects) · [Contact]({{ site.baseurl }}/contact){% if site.posts.size > 0 %} · [Blog]({{ site.baseurl }}/blog){% endif %}
 
-## 📂 Sections
-- [README](./README.md)  
-- Future blog posts and pages will appear here
+## 🚀 What is this?
+Experiments, notes, and tiny tools I’m building.
 
-## 👤 About Me
-Hi, I’m **Haider Ali**, a UX Consultant at Aramco, exploring product design, consulting, and personal projects.
+### Highlights
+- UX & product experiments
+- Internal tooling (Aramco context)
+- Personal write-ups
 
-📧 Contact me: [haiderxayan@gmail.com](mailto:haiderxayan@gmail.com)  
-🌐 Portfolio: [haiderxayan.com](https://haiderxayan.com)  
+> Repo: [workflow on GitHub](https://github.com/haiderxayan/workflow)
